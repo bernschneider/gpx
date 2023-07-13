@@ -6,7 +6,7 @@ var map = new mapboxgl.Map({
     container: 'map',
     center: [0, 0],
     zoom: 1,
-    style: 'mapbox/streets-v11'
+    style: 'mapbox/streets-v12'
 });
 
 // Add a control to add GPX tracks
