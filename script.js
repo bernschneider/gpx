@@ -1,5 +1,5 @@
 // Load the Mapbox GL library
-mapboxgl.accessToken = 'sk.eyJ1IjoiYmVybnNjaG5laWRlciIsImEiOiJjbGsxNzB4OHkwMHVzM2RwMmczMno5Y2NlIn0.YkGmRVJQ1Nyxm-9VAnRwWQ';
+mapboxgl.accessToken = 'INCLUDE_HERE_YOUR_MAPBOX_ACCESS_TOKEN';
 
 // Create a map
 var map = new mapboxgl.Map({
